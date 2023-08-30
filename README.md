@@ -8,7 +8,7 @@ OpenCOBOL 1.1 Programmer's Guideを日本語に翻訳し、opensorce COBOL版の
 
 ダウンロードしてご活用ください。
 
-[<img width="500" src="https://github-production-user-asset-6210df.s3.amazonaws.com/5810740/262879422-52d6363c-028f-43dc-b899-d06dff335845.png>](opensource%20COBOL%20Programmers%20Guide_20230817.pdf)
+[<img width="500" src="https://github-production-user-asset-6210df.s3.amazonaws.com/5810740/262879422-52d6363c-028f-43dc-b899-d06dff335845.png">](opensource%20COBOL%20Programmers%20Guide_20230817.pdf)
 
 ---
 Copyright 2023 TOKYO SYSTEM HOUSE CO., LTD. All Rights Reserved.
