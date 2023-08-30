@@ -1,5 +1,3 @@
-# mo-shimada.github.io
-
 # opensource COBOL Programmer's Guide
 
 [opensource COBOL Programmer's Guideの日本語版](opensource%20COBOL%20Programmers%20Guide_20230817.pdf)を配布しています。
